@@ -1,1 +1,13 @@
 @import url("rest.css");
+@import url("header.css");
+
+:root {
+    --cor-fundo: #EBECEE;
+    --branco: #ffffff;
+    --laranja: #EB9B00;
+    --azul: #002F52;
+}
+
+body {
+    background-color: var(--cor-fundo);
+}
