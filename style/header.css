@@ -50,3 +50,6 @@
     text-decoration: none;
     text-transform: uppercase;
 }
+.caixa__botao{
+    display: none;
+}
